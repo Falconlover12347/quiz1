@@ -1,0 +1,458 @@
+[
+    {
+        "question": "Which team in Counter-Strike history holds the record for the longest winning streak of 87 consecutive LAN matches?",
+        "options": ["NIP Gaming", "Vitality Gaming", "Fnatic Gaming", "Astralis"],
+        "correct_answer": "NIP Gaming"
+    },
+    {
+        "question": "Which team was the first to lift The International Dota 2 Aegis trophy twice?",
+        "options": ["OG Gaming", "Team Liquid", "Evil Geniuses", "Natus Vincere"],
+        "correct_answer": "OG Gaming"
+    },
+    {
+        "question": "What was the highest prize pool of The International Dota 2 tournament?",
+        "options": ["The International 2017", "The International 2019", "The International 2021", "The International 2023"],
+        "correct_answer": "The International 2021"
+    },
+    {
+        "question": "Which team in Counter-Strike history has the most Major wins?",
+        "options": ["Fnatic", "Astralis", "NIP Gaming", "Virtus.pro"],
+        "correct_answer": "Astralis"
+    },
+    {
+        "question": "What was s1mple's first Major win?",
+        "options": ["PGL Major Antwerp 2022", "PGL Major Stockholm 2021", "IEM Katowice 2021", "IEM Rio Major 2022"],
+        "correct_answer": "PGL Major Stockholm 2021"
+    },
+    {
+        "question": "Which Dota 2 hero has 14 spells and requires five keyboard buttons to execute?",
+        "options": ["Meepo", "Invoker", "Rubick", "Morphling"],
+        "correct_answer": "Invoker"
+    },
+    {
+        "question": "Which is the most played map in Counter-Strike history?",
+        "options": ["Mirage", "Dust2", "Inferno", "Overpass"],
+        "correct_answer": "Dust2"
+    },
+    {
+        "question": "Which is the most picked hero in Dota 2?",
+        "options": ["Lion", "Pudge", "Crystal Maiden", "Sniper"],
+        "correct_answer": "Pudge"
+    },
+    {
+        "question": "Where was the first Dota 2 International held?",
+        "options": ["Cologne, Germany", "Seattle, USA", "Shanghai, China", "Vancouver, Canada"],
+        "correct_answer": "Cologne, Germany"
+    },
+    {
+        "question": "When was the first NVIDIA GeForce card released?",
+        "options": ["August 1999", "June 2001", "September 1998", "January 2000"],
+        "correct_answer": "August 1999"
+    },
+    {
+        "question": "Which is the best-selling NVIDIA GPU of all time?",
+        "options": ["GeForce GTX 1060", "GeForce GTX 1050 Ti", "GeForce RTX 3080", "GeForce GTX 970"],
+        "correct_answer": "GeForce GTX 1060"
+    },
+    {
+        "question": "Which is the best-selling modern Intel CPU?",
+        "options": ["Intel Core i5-10400", "Intel Core i7-10700K", "Intel Core i9-11900K", "Intel Core i3-10100"],
+        "correct_answer": "Intel Core i5-10400"
+    },
+    {
+        "question": "Which is the best-selling AMD CPU of all time?",
+        "options": ["AMD Ryzen 5 3600", "AMD Athlon 64", "AMD Ryzen 7 3700X", "AMD FX-8350"],
+        "correct_answer": "AMD Ryzen 5 3600"
+    },
+    {
+        "question": "Which is the best-selling AMD GPU of all time?",
+        "options": ["Radeon RX 580", "Radeon RX 5700 XT", "Radeon RX 5600 XT", "Radeon RX 480"],
+        "correct_answer": "Radeon RX 580"
+    },
+    {
+        "question": "Which OEM brand has the highest market share in the GPU market?",
+        "options": ["ASUS", "MSI", "Gigabyte", "EVGA"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "Which OEM brand has the highest market share in the PC market?",
+        "options": ["Dell", "HP", "Lenovo", "Apple"],
+        "correct_answer": "Lenovo"
+    },
+    {
+        "question": "Which OEM brand has the highest market share in the RAM market?",
+        "options": ["Corsair", "G.Skill", "Kingston", "Crucial"],
+        "correct_answer": "Kingston"
+    },
+    {
+        "question": "Which brand holds the highest market share in the gaming mouse market?",
+        "options": ["Logitech", "Razer", "Corsair", "SteelSeries"],
+        "correct_answer": "Logitech"
+    },
+    {
+        "question": "Which brand holds the highest market share in the gaming keyboard market?",
+        "options": ["Razer", "Logitech", "Corsair", "SteelSeries"],
+        "correct_answer": "Logitech"
+    },
+    {
+        "question": "Which brand holds the highest market share in the gaming headset market?",
+        "options": ["SteelSeries", "Logitech", "Razer", "HyperX"],
+        "correct_answer": "HyperX"
+    },
+    {
+        "question": "Who is the CEO of NVIDIA?",
+        "options": ["Jensen Huang", "Lisa Su", "Satya Nadella", "Elon Musk"],
+        "correct_answer": "Jensen Huang"
+    },
+    {
+        "question": "Who is the CEO of Razer?",
+        "options": ["Min-Liang Tan", "Jensen Huang", "Tim Sweeney", "John Carmack"],
+        "correct_answer": "Min-Liang Tan"
+    },
+    {
+        "question": "What is Razer's best-selling product?",
+        "options": ["Razer DeathAdder Mouse", "Razer BlackWidow Keyboard", "Razer Kraken Headset", "Razer Blade Laptop"],
+        "correct_answer": "Razer DeathAdder Mouse"
+    },
+    {
+        "question": "What is Logitech G’s best-selling product?",
+        "options": ["Logitech G502 Mouse", "Logitech G Pro Keyboard", "Logitech G935 Headset", "Logitech G29 Racing Wheel"],
+        "correct_answer": "Logitech G502 Mouse"
+    },
+    {
+        "question": "What is HyperX's best-selling gaming headset?",
+        "options": ["HyperX Cloud II", "HyperX Cloud Alpha", "HyperX Cloud Stinger", "HyperX Cloud Flight"],
+        "correct_answer": "HyperX Cloud II"
+    },
+    {
+        "question": "What is ASUS's best-selling product?",
+        "options": ["ASUS ROG Strix Graphics Cards", "ASUS ZenBook Laptops", "ASUS TUF Gaming Motherboards", "ASUS ROG Swift Monitors"],
+        "correct_answer": "ASUS ROG Strix Graphics Cards"
+    },
+    {
+        "question": "Which OEM brand has the largest market share in the overall PC hardware market?",
+        "options": ["Lenovo", "HP", "Dell", "Apple"],
+        "correct_answer": "Lenovo"
+    },
+    {
+        "question": "What is Lenovo's best-selling product?",
+        "options": ["ThinkPad Laptops", "Legion Gaming Laptops", "IdeaPad Laptops", "Yoga Convertible Laptops"],
+        "correct_answer": "ThinkPad Laptops"
+    },
+    {
+        "question": "What is MSI's best-selling product?",
+        "options": ["MSI Gaming Laptops", "MSI Graphics Cards", "MSI Motherboards", "MSI Monitors"],
+        "correct_answer": "MSI Gaming Laptops"
+    },
+    {
+        "question": "Which of the following companies is known for their gaming chairs?",
+        "options": ["Razer", "Secretlab", "Logitech", "MSI"],
+        "correct_answer": "Secretlab"
+    },
+    {
+        "question": "Which was ZywOo's first Major Championship win in CS:GO?",
+        "options": ["FACEIT Major London 2018", "IEM Katowice Major 2019", "StarLadder Berlin Major 2019", "PGL Major Stockholm 2021"],
+        "correct_answer": "PGL Major Stockholm 2021"
+    },
+    {
+        "question": "Which is the most profitable PC hardware company?",
+        "options": ["Intel", "NVIDIA", "AMD", "Apple"],
+        "correct_answer": "NVIDIA"
+    },
+    {
+        "question": "Who is considered the GOAT (Greatest of All Time) in League of Legends?",
+        "options": ["Faker", "Uzi", "Deft", "Caps"],
+        "correct_answer": "Faker"
+    },
+    {
+        "question": "Which Dota 2 hero has the most The International (TI) wins?",
+        "options": ["Earthshaker", "Rubick", "Tiny", "Invoker"],
+        "correct_answer": "Earthshaker"
+    },
+    {
+        "question": "How many The International (TI) tournaments have been held so far?",
+        "options": ["10", "11", "12", "13"],
+        "correct_answer": "12"
+    },
+    {
+        "question": "Which player has played the most different heroes in The International history?",
+        "options": ["Puppey", "KuroKy", "N0tail", "Somnus"],
+        "correct_answer": "KuroKy"
+    },
+    {
+        "question": "Which player has attended the most The International (TI) tournaments as a player?",
+        "options": ["Puppey", "KuroKy", "Sumail", "N0tail"],
+        "correct_answer": "Puppey"
+    },
+    {
+        "question": "Which team from China has attended the most The International (TI) tournaments?",
+        "options": ["LGD Gaming", "Invictus Gaming", "Newbee", "EHOME"],
+        "correct_answer": "LGD Gaming"
+    },
+    {
+        "question": "What is considered one of the worst-selling NVIDIA products?",
+        "options": ["NVIDIA GeForce FX 5200", "NVIDIA GeForce RTX 3090", "NVIDIA GeForce GTX 1060", "NVIDIA GeForce RTX 3060"],
+        "correct_answer": "NVIDIA GeForce FX 5200"
+    },
+    {
+        "question": "Which is considered one of the worst-selling products by Razer?",
+        "options": ["Razer Phone", "Razer DeathAdder V2", "Razer BlackWidow Keyboard", "Razer Kraken Headset"],
+        "correct_answer": "Razer Phone"
+    },
+    {
+        "question": "Who has won the most trophies in Counter-Strike history?",
+        "options": ["GeT_RiGhT", "s1mple", "coldzera", "Olofmeister"],
+        "correct_answer": "GeT_RiGhT"
+    },
+    {
+        "question": "Who has won the most trophies in Dota 2 history?",
+        "options": ["KuroKy", "N0tail", "Puppey", "Miracle-"],
+        "correct_answer": "N0tail"
+    },
+    {
+        "question": "Who has won the most trophies in League of Legends history?",
+        "options": ["Faker", "Uzi", "Doublelift", "Ming"],
+        "correct_answer": "Faker"
+    },
+    {
+        "question": "Which team has won the most trophies in Counter-Strike history?",
+        "options": ["Astralis", "Fnatic", "Natus Vincere", "Team Liquid"],
+        "correct_answer": "Astralis"
+    },
+    {
+        "question": "Who holds the record for the highest number of deaths in a single professional Dota 2 match?",
+        "options": ["Fear", "Arteezy", "Bulba", "Puppey"],
+        "correct_answer": "Fear"
+    },
+    {
+        "question": "When was Counter-Strike 2 (CS2) released?",
+        "options": ["September 27, 2023", "October 10, 2023", "August 15, 2023", "November 1, 2023"],
+        "correct_answer": "September 27, 2023"
+    },
+    {
+        "question": "Which team won the first Counter-Strike Major Championship?",
+        "options": ["Natus Vincere", "Fnatic", "Team Liquid", "Astralis"],
+        "correct_answer": "Fnatic"
+    },
+    {
+        "question": "What is the most popular CPU brand among gamers in 2024?",
+        "options": ["Intel", "AMD", "ARM", "Qualcomm"],
+        "correct_answer": "Intel"
+    },
+    {
+        "question": "Which CS player has the highest all-time rating on HLTV?",
+        "options": ["s1mple", "device", "coldzera", "GeT_RiGhT"],
+        "correct_answer": "s1mple"
+    },
+    {
+        "question": "What is the signature item of the Dota 2 hero Anti-Mage?",
+        "options": ["Battle Fury", "Black King Bar", "Blink Dagger", "Manta Style"],
+        "correct_answer": "Battle Fury"
+    },
+    {
+        "question": "Which AMD GPU series is known as the RX 5000 series?",
+        "options": ["Navi", "Polaris", "Vega", "Fiji"],
+        "correct_answer": "Navi"
+    },
+    {
+        "question": "Which Counter-Strike player won the MVP award at the PGL Major Stockholm 2021?",
+        "options": ["ZywOo", "s1mple", "NiKo", "Electronic"],
+        "correct_answer": "ZywOo"
+    },
+    {
+        "question": "What is the codename for Intel’s 12th generation CPUs?",
+        "options": ["Alder Lake", "Rocket Lake", "Comet Lake", "Ice Lake"],
+        "correct_answer": "Alder Lake"
+    },
+    {
+        "question": "Which CS player is known as the 'Clutch Master'?",
+        "options": ["Xyp9x", "s1mple", "coldzera", "dev1ce"],
+        "correct_answer": "Xyp9x"
+    },
+    {
+        "question": "Who is known as the 'Godfather of CS' in Brazil?",
+        "options": ["Fallen", "coldzera", "TACO", "fer"],
+        "correct_answer": "Fallen"
+    },
+    {
+        "question": "Which Dota 2 team won The International 2011, the first-ever TI?",
+        "options": ["Natus Vincere", "Invictus Gaming", "OG", "Team Liquid"],
+        "correct_answer": "Natus Vincere"
+    },
+    {
+        "question": "Which CS:GO player is known by the nickname 'The Prince'?",
+        "options": ["ZywOo", "s1mple", "dev1ce", "NiKo"],
+        "correct_answer": "dev1ce"
+    },
+    {
+        "question": "What is the base clock speed unit used to measure CPU frequency?",
+        "options": ["GHz", "MHz", "kHz", "THz"],
+        "correct_answer": "GHz"
+    },
+    {
+        "question": "Which company is the largest manufacturer of motherboards?",
+        "options": ["ASUS", "MSI", "Gigabyte", "ASRock"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "Which company is known for the TUF Gaming series of motherboards?",
+        "options": ["ASUS", "MSI", "Gigabyte", "ASRock"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "Which motherboard brand is known for its AORUS series?",
+        "options": ["Gigabyte", "ASUS", "MSI", "ASRock"],
+        "correct_answer": "Gigabyte"
+    },
+    {
+        "question": "Which company produces the BlackWidow series gaming keyboards?",
+        "options": ["Razer", "Logitech", "Corsair", "SteelSeries"],
+        "correct_answer": "Razer"
+    },
+    {
+        "question": "On which map did Fnatic perform their infamous boost?",
+        "options": ["Overpass", "Inferno", "Train", "Mirage"],
+        "correct_answer": "Overpass"
+    },
+    {
+        "question": "Which company produces the Radeon VII GPU?",
+        "options": ["AMD", "NVIDIA", "Intel", "Qualcomm"],
+        "correct_answer": "AMD"
+    },
+    {
+        "question": "Which motherboard brand is known for the 'ROG' series?",
+        "options": ["ASUS", "MSI", "Gigabyte", "ASRock"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "What was the first commercially available CPU with more than 1 billion transistors?",
+        "options": ["Intel Core i7-9700K", "Intel Pentium 4", "AMD Ryzen 9 3950X", "Intel Core i7-3960X"],
+        "correct_answer": "Intel Core i7-3960X"
+    },
+    {
+        "question": "Which year did DDR4 RAM officially enter the consumer market?",
+        "options": ["2011", "2014", "2016", "2018"],
+        "correct_answer": "2014"
+    },
+    {
+        "question": "Which PC hardware company became the first to reach a $1 trillion market cap?",
+        "options": ["Apple", "NVIDIA", "Intel", "AMD"],
+        "correct_answer": "Apple"
+    },
+    {
+        "question": "Which company pioneered the use of multi-core processors in consumer CPUs?",
+        "options": ["Intel", "AMD", "IBM", "ARM"],
+        "correct_answer": "Intel"
+    },
+    {
+        "question": "Which was the first GPU to break the 10 teraflops performance barrier?",
+        "options": ["NVIDIA RTX 3080", "AMD Radeon RX 6800 XT", "NVIDIA GTX 1080 Ti", "AMD Radeon VII"],
+        "correct_answer": "NVIDIA RTX 3080"
+    },
+    {
+        "question": "What year was the first 1TB consumer SSD released?",
+        "options": ["2012", "2014", "2016", "2018"],
+        "correct_answer": "2014"
+    },
+    {
+        "question": "What was the first CPU to use 7nm manufacturing process technology?",
+        "options": ["AMD Ryzen 3000 series", "Intel Core 10th Gen", "Apple M1", "AMD Ryzen 5000 series"],
+        "correct_answer": "AMD Ryzen 3000 series"
+    },
+    {
+        "question": "Which component saw the largest price increase during the 2020-2021 global chip shortage?",
+        "options": ["GPUs", "CPUs", "RAM", "Motherboards"],
+        "correct_answer": "GPUs"
+    },
+    {
+        "question": "Which company introduced the first DDR5 RAM modules to the consumer market?",
+        "options": ["Samsung", "Corsair", "Kingston", "G.Skill"],
+        "correct_answer": "Samsung"
+    },
+    {
+        "question": "Which was the first SSD to widely use the NVMe protocol in the consumer market?",
+        "options": ["Samsung 950 Pro", "Intel 750 Series", "Crucial MX500", "WD Blue SN550"],
+        "correct_answer": "Samsung 950 Pro"
+    },
+    {
+        "question": "Which company is the largest manufacturer of PC power supplies?",
+        "options": ["Corsair", "Seasonic", "EVGA", "Thermaltake"],
+        "correct_answer": "Seasonic"
+    },
+    {
+        "question": "Which company was the first to mass-produce 3D NAND flash memory?",
+        "options": ["Samsung", "Micron", "Intel", "Toshiba"],
+        "correct_answer": "Samsung"
+    },
+    {
+        "question": "Which was the first GPU to support real-time ray tracing in gaming?",
+        "options": ["NVIDIA RTX 2080", "AMD RX 5700 XT", "NVIDIA GTX 1080 Ti", "Intel Arc A770"],
+        "correct_answer": "NVIDIA RTX 2080"
+    },
+    {
+        "question": "What year was USB 3.0 officially released?",
+        "options": ["2008", "2010", "2013", "2015"],
+        "correct_answer": "2008"
+    },
+    {
+        "question": "Which company is the largest producer of laptop displays?",
+        "options": ["LG Display", "Samsung Display", "AU Optronics", "BOE Technology"],
+        "correct_answer": "LG Display"
+    },
+    {
+        "question": "Which company developed the first commercially successful multi-core CPU?",
+        "options": ["IBM", "Intel", "AMD", "Sun Microsystems"],
+        "correct_answer": "IBM"
+    },
+    {
+        "question": "Which company released the first OLED gaming monitor?",
+        "options": ["LG", "ASUS", "Samsung", "Dell"],
+        "correct_answer": "LG"
+    },
+    {
+        "question": "Which was the first consumer gaming monitor to support a 240Hz refresh rate?",
+        "options": ["ASUS ROG Swift PG258Q", "Acer Predator XB252Q", "BenQ ZOWIE XL2546", "Dell Alienware AW2518H"],
+        "correct_answer": "ASUS ROG Swift PG258Q"
+    },
+    {
+        "question": "Which brand launched the first 360Hz gaming monitor for consumers?",
+        "options": ["Alienware", "ASUS", "Acer", "BenQ"],
+        "correct_answer": "Alienware"
+    },
+    {
+        "question": "What is the highest refresh rate available in consumer monitors as of 2025?",
+        "options": ["360Hz", "480Hz", "500Hz", "540Hz"],
+        "correct_answer": "540Hz"
+    },
+    {
+        "question": "Which display panel technology offers the best contrast and true blacks in monitors?",
+        "options": ["OLED", "IPS", "TN", "VA"],
+        "correct_answer": "OLED"
+    },
+    {
+        "question": "Which gaming monitor brand is most associated with Alienware?",
+        "options": ["Dell", "ASUS", "MSI", "Gigabyte"],
+        "correct_answer": "Dell"
+    },
+    {
+        "question": "Which display panel type is best known for fast response times?",
+        "options": ["TN", "IPS", "OLED", "VA"],
+        "correct_answer": "TN"
+    },
+    {
+        "question": "Which monitor size is most common among esports players?",
+        "options": ["24.5 inch", "27 inch", "32 inch", "21 inch"],
+        "correct_answer": "24.5 inch"
+    },
+    {
+        "question": "Which company released the first 4K 144Hz gaming monitor?",
+        "options": ["Acer", "ASUS", "LG", "Gigabyte"],
+        "correct_answer": "ASUS"
+    },
+    {
+        "question": "Which gaming monitor brand is associated with the 'Zowie' series?",
+        "options": ["BenQ", "AOC", "MSI", "Gigabyte"],
+        "correct_answer": "BenQ"
+    }
+]
+

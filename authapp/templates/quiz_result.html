@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Quiz Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef2f3;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .result-container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 22px;
+            margin-bottom: 30px;
+        }
+        a.button {
+            display: inline-block;
+            padding: 12px 25px;
+            margin: 0 10px;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            transition: background 0.3s ease;
+        }
+        a.button:hover {
+            background: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-container">
+        <h1>Your Quiz Result</h1>
+        <p>You scored: <strong>{{ score }}</strong></p>
+        <a class="button" href="{% url 'quiz_question' 1 %}">Play Again</a>
+        <a class="button" href="{% url 'home' %}">Home</a>
+    </div>
+</body>
+</html>

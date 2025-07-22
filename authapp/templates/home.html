@@ -1,0 +1,24 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Platform</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz</h1>
+        <div class="button-group">
+            <!-- ✅ Only this Play button should exist -->
+            <a href="{% url 'quiz_question' question_id=1 %}" class="btn">Play</a>
+
+            <!-- ✅ Leaderboard -->
+            <a href="{% url 'leaderboard' %}" class="btn">Leaderboard</a>
+
+            <!-- ✅ Login/Register -->
+            <a href="{% url 'login' %}" class="btn">Login/Register</a>
+        </div>
+    </div>
+</body>
+</html>
