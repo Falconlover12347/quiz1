@@ -1,49 +1,5 @@
 [
-    {
-        "question": "Which team in Counter-Strike history holds the record for the longest winning streak of 87 consecutive LAN matches?",
-        "options": ["NIP Gaming", "Vitality Gaming", "Fnatic Gaming", "Astralis"],
-        "correct_answer": "NIP Gaming"
-    },
-    {
-        "question": "Which team was the first to lift The International Dota 2 Aegis trophy twice?",
-        "options": ["OG Gaming", "Team Liquid", "Evil Geniuses", "Natus Vincere"],
-        "correct_answer": "OG Gaming"
-    },
-    {
-        "question": "What was the highest prize pool of The International Dota 2 tournament?",
-        "options": ["The International 2017", "The International 2019", "The International 2021", "The International 2023"],
-        "correct_answer": "The International 2021"
-    },
-    {
-        "question": "Which team in Counter-Strike history has the most Major wins?",
-        "options": ["Fnatic", "Astralis", "NIP Gaming", "Virtus.pro"],
-        "correct_answer": "Astralis"
-    },
-    {
-        "question": "What was s1mple's first Major win?",
-        "options": ["PGL Major Antwerp 2022", "PGL Major Stockholm 2021", "IEM Katowice 2021", "IEM Rio Major 2022"],
-        "correct_answer": "PGL Major Stockholm 2021"
-    },
-    {
-        "question": "Which Dota 2 hero has 14 spells and requires five keyboard buttons to execute?",
-        "options": ["Meepo", "Invoker", "Rubick", "Morphling"],
-        "correct_answer": "Invoker"
-    },
-    {
-        "question": "Which is the most played map in Counter-Strike history?",
-        "options": ["Mirage", "Dust2", "Inferno", "Overpass"],
-        "correct_answer": "Dust2"
-    },
-    {
-        "question": "Which is the most picked hero in Dota 2?",
-        "options": ["Lion", "Pudge", "Crystal Maiden", "Sniper"],
-        "correct_answer": "Pudge"
-    },
-    {
-        "question": "Where was the first Dota 2 International held?",
-        "options": ["Cologne, Germany", "Seattle, USA", "Shanghai, China", "Vancouver, Canada"],
-        "correct_answer": "Cologne, Germany"
-    },
+
     {
         "question": "When was the first NVIDIA GeForce card released?",
         "options": ["August 1999", "June 2001", "September 1998", "January 2000"],
@@ -144,51 +100,13 @@
         "options": ["MSI Gaming Laptops", "MSI Graphics Cards", "MSI Motherboards", "MSI Monitors"],
         "correct_answer": "MSI Gaming Laptops"
     },
-    {
-        "question": "Which of the following companies is known for their gaming chairs?",
-        "options": ["Razer", "Secretlab", "Logitech", "MSI"],
-        "correct_answer": "Secretlab"
-    },
-    {
-        "question": "Which was ZywOo's first Major Championship win in CS:GO?",
-        "options": ["FACEIT Major London 2018", "IEM Katowice Major 2019", "StarLadder Berlin Major 2019", "PGL Major Stockholm 2021"],
-        "correct_answer": "PGL Major Stockholm 2021"
-    },
+
     {
         "question": "Which is the most profitable PC hardware company?",
         "options": ["Intel", "NVIDIA", "AMD", "Apple"],
         "correct_answer": "NVIDIA"
     },
-    {
-        "question": "Who is considered the GOAT (Greatest of All Time) in League of Legends?",
-        "options": ["Faker", "Uzi", "Deft", "Caps"],
-        "correct_answer": "Faker"
-    },
-    {
-        "question": "Which Dota 2 hero has the most The International (TI) wins?",
-        "options": ["Earthshaker", "Rubick", "Tiny", "Invoker"],
-        "correct_answer": "Earthshaker"
-    },
-    {
-        "question": "How many The International (TI) tournaments have been held so far?",
-        "options": ["10", "11", "12", "13"],
-        "correct_answer": "12"
-    },
-    {
-        "question": "Which player has played the most different heroes in The International history?",
-        "options": ["Puppey", "KuroKy", "N0tail", "Somnus"],
-        "correct_answer": "KuroKy"
-    },
-    {
-        "question": "Which player has attended the most The International (TI) tournaments as a player?",
-        "options": ["Puppey", "KuroKy", "Sumail", "N0tail"],
-        "correct_answer": "Puppey"
-    },
-    {
-        "question": "Which team from China has attended the most The International (TI) tournaments?",
-        "options": ["LGD Gaming", "Invictus Gaming", "Newbee", "EHOME"],
-        "correct_answer": "LGD Gaming"
-    },
+
     {
         "question": "What is considered one of the worst-selling NVIDIA products?",
         "options": ["NVIDIA GeForce FX 5200", "NVIDIA GeForce RTX 3090", "NVIDIA GeForce GTX 1060", "NVIDIA GeForce RTX 3060"],
@@ -200,89 +118,20 @@
         "correct_answer": "Razer Phone"
     },
     {
-        "question": "Who has won the most trophies in Counter-Strike history?",
-        "options": ["GeT_RiGhT", "s1mple", "coldzera", "Olofmeister"],
-        "correct_answer": "GeT_RiGhT"
-    },
-    {
-        "question": "Who has won the most trophies in Dota 2 history?",
-        "options": ["KuroKy", "N0tail", "Puppey", "Miracle-"],
-        "correct_answer": "N0tail"
-    },
-    {
-        "question": "Who has won the most trophies in League of Legends history?",
-        "options": ["Faker", "Uzi", "Doublelift", "Ming"],
-        "correct_answer": "Faker"
-    },
-    {
-        "question": "Which team has won the most trophies in Counter-Strike history?",
-        "options": ["Astralis", "Fnatic", "Natus Vincere", "Team Liquid"],
-        "correct_answer": "Astralis"
-    },
-    {
-        "question": "Who holds the record for the highest number of deaths in a single professional Dota 2 match?",
-        "options": ["Fear", "Arteezy", "Bulba", "Puppey"],
-        "correct_answer": "Fear"
-    },
-    {
-        "question": "When was Counter-Strike 2 (CS2) released?",
-        "options": ["September 27, 2023", "October 10, 2023", "August 15, 2023", "November 1, 2023"],
-        "correct_answer": "September 27, 2023"
-    },
-    {
-        "question": "Which team won the first Counter-Strike Major Championship?",
-        "options": ["Natus Vincere", "Fnatic", "Team Liquid", "Astralis"],
-        "correct_answer": "Fnatic"
-    },
-    {
         "question": "What is the most popular CPU brand among gamers in 2024?",
         "options": ["Intel", "AMD", "ARM", "Qualcomm"],
         "correct_answer": "Intel"
-    },
-    {
-        "question": "Which CS player has the highest all-time rating on HLTV?",
-        "options": ["s1mple", "device", "coldzera", "GeT_RiGhT"],
-        "correct_answer": "s1mple"
-    },
-    {
-        "question": "What is the signature item of the Dota 2 hero Anti-Mage?",
-        "options": ["Battle Fury", "Black King Bar", "Blink Dagger", "Manta Style"],
-        "correct_answer": "Battle Fury"
     },
     {
         "question": "Which AMD GPU series is known as the RX 5000 series?",
         "options": ["Navi", "Polaris", "Vega", "Fiji"],
         "correct_answer": "Navi"
     },
-    {
-        "question": "Which Counter-Strike player won the MVP award at the PGL Major Stockholm 2021?",
-        "options": ["ZywOo", "s1mple", "NiKo", "Electronic"],
-        "correct_answer": "ZywOo"
-    },
+
     {
         "question": "What is the codename for Intel’s 12th generation CPUs?",
         "options": ["Alder Lake", "Rocket Lake", "Comet Lake", "Ice Lake"],
         "correct_answer": "Alder Lake"
-    },
-    {
-        "question": "Which CS player is known as the 'Clutch Master'?",
-        "options": ["Xyp9x", "s1mple", "coldzera", "dev1ce"],
-        "correct_answer": "Xyp9x"
-    },
-    {
-        "question": "Who is known as the 'Godfather of CS' in Brazil?",
-        "options": ["Fallen", "coldzera", "TACO", "fer"],
-        "correct_answer": "Fallen"
-    },
-    {
-        "question": "Which Dota 2 team won The International 2011, the first-ever TI?",
-        "options": ["Natus Vincere", "Invictus Gaming", "OG", "Team Liquid"],
-        "correct_answer": "Natus Vincere"
-    },
-    {
-        "question": "Which CS:GO player is known by the nickname 'The Prince'?",
-        "options": ["ZywOo", "s1mple", "dev1ce", "NiKo"],
-        "correct_answer": "dev1ce"
     },
     {
         "question": "What is the base clock speed unit used to measure CPU frequency?",
@@ -308,11 +157,6 @@
         "question": "Which company produces the BlackWidow series gaming keyboards?",
         "options": ["Razer", "Logitech", "Corsair", "SteelSeries"],
         "correct_answer": "Razer"
-    },
-    {
-        "question": "On which map did Fnatic perform their infamous boost?",
-        "options": ["Overpass", "Inferno", "Train", "Mirage"],
-        "correct_answer": "Overpass"
     },
     {
         "question": "Which company produces the Radeon VII GPU?",
@@ -454,5 +298,204 @@
         "options": ["BenQ", "AOC", "MSI", "Gigabyte"],
         "correct_answer": "BenQ"
     }
+    {
+        "question": "What year was the first Intel Core i-series processor released?",
+        "options": ["2006", "2008", "2010", "2009"],
+        "correct_answer": "2008"
+    },
+    {
+        "question": "Which CPU manufacturer uses the 'Zen' architecture?",
+        "options": ["AMD", "Intel", "Qualcomm", "ARM"],
+        "correct_answer": "AMD"
+    },
+    {
+        "question": "What is the maximum number of cores in AMD's Ryzen Threadripper 3990X?",
+        "options": ["64", "32", "48", "24"],
+        "correct_answer": "64"
+    },
+    {
+        "question": "Which NVIDIA GPU architecture succeeded Pascal?",
+        "options": ["Turing", "Ampere", "Volta", "Kepler"],
+        "correct_answer": "Turing"
+    },
+    {
+        "question": "What is the primary function of a motherboard chipset?",
+        "options": ["Connect and manage communication between components", "Display graphics", "Store data", "Provide power to components"],
+        "correct_answer": "Connect and manage communication between components"
+    },
+    {
+        "question": "Which AMD architecture first introduced ray tracing support?",
+        "options": ["RDNA 2", "RDNA", "Vega", "Polaris"],
+        "correct_answer": "RDNA 2"
+    },
+    {
+        "question": "What does the 'G' in Intel Core i5-1035G1 stand for?",
+        "options": ["Graphics", "Gaming", "Generation", "Gigabyte"],
+        "correct_answer": "Graphics"
+    },
+    {
+        "question": "Which company owns the Radeon graphics brand?",
+        "options": ["AMD", "Intel", "NVIDIA", "ASUS"],
+        "correct_answer": "AMD"
+    },
+    {
+        "question": "Which Intel processor generation introduced hybrid architecture?",
+        "options": ["12th Gen", "10th Gen", "11th Gen", "9th Gen"],
+        "correct_answer": "12th Gen"
+    },
+    {
+        "question": "Which interface is faster: PCIe 4.0 or PCIe 3.0?",
+        "options": ["PCIe 4.0", "PCIe 3.0", "Both are same", "Depends on the CPU"],
+        "correct_answer": "PCIe 4.0"
+    },
+    {
+        "question": "Which CPU cooler brand is famous for its Noctua NH-D15?",
+        "options": ["Noctua", "Cooler Master", "Corsair", "DeepCool"],
+        "correct_answer": "Noctua"
+    },
+    {
+        "question": "Which CPU socket is used for Intel’s 13th Gen processors?",
+        "options": ["LGA 1700", "LGA 1200", "LGA 1151", "LGA 2066"],
+        "correct_answer": "LGA 1700"
+    },
+    {
+        "question": "Which technology allows CPUs to run at higher clock speeds under load?",
+        "options": ["Turbo Boost", "HyperThreading", "Overdrive", "ECC"],
+        "correct_answer": "Turbo Boost"
+    },
+    {
+        "question": "What does SSD stand for?",
+        "options": ["Solid State Drive", "Smart Storage Device", "Secure Storage Disk", "Standard Storage Drive"],
+        "correct_answer": "Solid State Drive"
+    },
+    {
+        "question": "Which gaming laptop brand is a sub-brand of ASUS?",
+        "options": ["ROG", "Alienware", "Legion", "Predator"],
+        "correct_answer": "ROG"
+    },
+    {
+        "question": "Which CPU manufacturer produces EPYC processors?",
+        "options": ["AMD", "Intel", "Qualcomm", "IBM"],
+        "correct_answer": "AMD"
+    },
+    {
+        "question": "Which graphics card brand is associated with the SUPRIM series?",
+        "options": ["MSI", "ASUS", "Gigabyte", "EVGA"],
+        "correct_answer": "MSI"
+    },
+    {
+        "question": "What is the default file system used by Windows 10?",
+        "options": ["NTFS", "FAT32", "exFAT", "EXT4"],
+        "correct_answer": "NTFS"
+    },
+    {
+        "question": "Which of the following is a CPU benchmarking tool?",
+        "options": ["Cinebench", "CrystalDiskMark", "GPU-Z", "FurMark"],
+        "correct_answer": "Cinebench"
+    },
+    {
+        "question": "Which laptop series is known for its 2-in-1 convertible design?",
+        "options": ["Yoga", "ThinkPad", "ROG", "Predator"],
+        "correct_answer": "Yoga"
+    },
+    {
+        "question": "Which technology is used for fast charging in USB-C?",
+        "options": ["Power Delivery (PD)", "QuickSync", "Optane", "G-Sync"],
+        "correct_answer": "Power Delivery (PD)"
+    },
+    {
+        "question": "Which brand is known for its Trident Z RAM modules?",
+        "options": ["G.Skill", "Corsair", "Kingston", "Crucial"],
+        "correct_answer": "G.Skill"
+    },
+    {
+        "question": "Which interface replaced mSATA for compact SSDs?",
+        "options": ["M.2", "PCIe", "U.2", "SATA III"],
+        "correct_answer": "M.2"
+    },
+    {
+        "question": "What does VRAM stand for?",
+        "options": ["Video Random Access Memory", "Virtual RAM", "Variable RAM", "Volatile RAM"],
+        "correct_answer": "Video Random Access Memory"
+    },
+    {
+        "question": "What is the primary purpose of thermal paste?",
+        "options": ["Enhance heat transfer", "Prevent static", "Secure the CPU", "Insulate components"],
+        "correct_answer": "Enhance heat transfer"
+    },
+    {
+        "question": "Which company produces the Predator gaming laptops?",
+        "options": ["Acer", "ASUS", "HP", "MSI"],
+        "correct_answer": "Acer"
+    },
+    {
+        "question": "Which NVIDIA series first introduced DLSS?",
+        "options": ["RTX 20 Series", "GTX 10 Series", "RTX 30 Series", "GTX 16 Series"],
+        "correct_answer": "RTX 20 Series"
+    },
+    {
+        "question": "Which brand is known for the Elgato streaming products?",
+        "options": ["Corsair", "Logitech", "Razer", "AverMedia"],
+        "correct_answer": "Corsair"
+    },
+    {
+        "question": "What does PSU stand for in a PC build?",
+        "options": ["Power Supply Unit", "Processor Support Unit", "Performance System Unit", "Peripheral Switching Unit"],
+        "correct_answer": "Power Supply Unit"
+    },
+    {
+        "question": "What does 'Hz' measure in monitors?",
+        "options": ["Refresh rate", "Pixel density", "Color depth", "Brightness"],
+        "correct_answer": "Refresh rate"
+    },
+    {
+        "question": "Which brand launched the 'Legion' series of gaming laptops?",
+        "options": ["Lenovo", "Dell", "HP", "MSI"],
+        "correct_answer": "Lenovo"
+    },
+    {
+        "question": "Which NVIDIA card is known for its extremely high power draw?",
+        "options": ["RTX 4090", "RTX 3070", "GTX 1650", "RTX 2080"],
+        "correct_answer": "RTX 4090"
+    },
+    {
+        "question": "Which PC case form factor is the smallest?",
+        "options": ["Mini-ITX", "Micro-ATX", "ATX", "E-ATX"],
+        "correct_answer": "Mini-ITX"
+    },
+    {
+        "question": "Which Intel CPU family targets laptops primarily?",
+        "options": ["U-Series", "K-Series", "HEDT", "XEON"],
+        "correct_answer": "U-Series"
+    },
+    {
+        "question": "Which technology allows multiple GPUs to work together in NVIDIA systems?",
+        "options": ["SLI", "CrossFire", "HyperThreading", "RAID"],
+        "correct_answer": "SLI"
+    },
+    {
+        "question": "Which brand makes the 'Phantom Gaming' series motherboards?",
+        "options": ["ASRock", "Gigabyte", "MSI", "ASUS"],
+        "correct_answer": "ASRock"
+    },
+    {
+        "question": "Which AMD CPU line is designed for laptops?",
+        "options": ["Ryzen Mobile", "Threadripper", "EPYC", "Athlon Pro"],
+        "correct_answer": "Ryzen Mobile"
+    },
+    {
+        "question": "Which company manufactures Intel CPUs?",
+        "options": ["Intel", "TSMC", "AMD", "GlobalFoundries"],
+        "correct_answer": "Intel"
+    },
+    {
+        "question": "Which brand produces 'Black' series high-performance HDDs?",
+        "options": ["Western Digital", "Seagate", "Toshiba", "Samsung"],
+        "correct_answer": "Western Digital"
+    },
+    {
+        "question": "Which RGB lighting control software is made by Corsair?",
+        "options": ["iCUE", "Aura Sync", "Mystic Light", "RGB Fusion"],
+        "correct_answer": "iCUE"
+    }
 ]
-
