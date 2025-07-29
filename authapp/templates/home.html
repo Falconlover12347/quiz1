@@ -1,33 +1,67 @@
+<!-- templates/home.html -->
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Quiz Platform</title>
+    <title>Quiz Game - Home</title>
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <style>
+        body {
+            background-color: #f4f4f4;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 4rem;
+            margin-bottom: 40px;
+            color: #333;
+        }
+
+        .button-group {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .btn {
+            text-decoration: none;
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            background-color: #007BFF;
+            color: white;
+            border-radius: 10px;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Welcome to the Quiz Game!</h1>
-
+<div class="container">
+    <h1>Welcome to the Quiz Game</h1>
+    <div class="button-group">
         {% if user.is_authenticated %}
-            <p>Hello, {{ user.username }}!</p>
-        {% endif %}
-
-        <div class="button-group">
-            <!-- Play -->
-            <a href="{% url 'quiz_question' question_id=1 %}" class="btn">Play</a>
-
-            <!-- Leaderboard -->
+            <a href="{% url 'start_quiz' %}" class="btn">Play</a>
             <a href="{% url 'leaderboard' %}" class="btn">Leaderboard</a>
-
-            <!-- Auth links -->
-            {% if user.is_authenticated %}
-                <a href="{% url 'logout' %}" class="btn">Logout</a>
-            {% else %}
-                <a href="{% url 'login' %}" class="btn">Login / Register</a>
-            {% endif %}
-        </div>
+            <a href="{% url 'logout' %}" class="btn">Logout</a>
+        {% else %}
+            <a href="{% url 'login' %}" class="btn">Login</a>
+            <a href="{% url 'register' %}" class="btn">Register</a>
+            <a href="{% url 'leaderboard' %}" class="btn">Leaderboard</a>
+        {% endif %}
     </div>
+</div>
 </body>
 </html>
