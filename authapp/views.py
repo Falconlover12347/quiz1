@@ -3,7 +3,6 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from .models import QuizQuestion, Leaderboard
-from django.http import Http404
 
 def home(request):
     return render(request, 'home.html')
@@ -15,7 +14,11 @@ def login_view(request):
         user = authenticate(request, username=username, password=password)
         if user is not None:
             login(request, user)
-            return redirect('quiz_question', question_id=1)
+            first_question = QuizQuestion.objects.order_by('id').first()
+            if first_question:
+                return redirect('quiz_question', question_id=first_question.id)
+            else:
+                return render(request, 'no_questions.html')  # fallback if no questions
         else:
             return render(request, 'login.html', {'error': 'Invalid username or password'})
     return render(request, 'login.html')
@@ -33,6 +36,14 @@ def register_view(request):
         User.objects.create_user(username=username, password=password)
         return redirect('login')
     return render(request, 'register.html')
+
+@login_required
+def start_quiz(request):
+    first_question = QuizQuestion.objects.order_by('id').first()
+    if first_question:
+        return redirect('quiz_question', question_id=first_question.id)
+    else:
+        return render(request, 'no_questions.html')  # fallback if no questions
 
 @login_required
 def leaderboard(request):
@@ -76,7 +87,6 @@ def quiz_question(request, question_id):
 
 @login_required
 def quiz_result(request):
-    # This view is kept in case you want to redirect here explicitly
     score = request.session.get('score', 0)
     request.session.flush()
     return render(request, 'quiz_result.html', {'score': score})

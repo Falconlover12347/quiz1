@@ -297,7 +297,7 @@
         "question": "Which gaming monitor brand is associated with the 'Zowie' series?",
         "options": ["BenQ", "AOC", "MSI", "Gigabyte"],
         "correct_answer": "BenQ"
-    }
+    },
     {
         "question": "What year was the first Intel Core i-series processor released?",
         "options": ["2006", "2008", "2010", "2009"],
